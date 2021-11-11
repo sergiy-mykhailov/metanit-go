@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// Функции и их параметры
 func main() {
 	hello()
 
